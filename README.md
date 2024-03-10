@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 💫 **About Me:**
+
 I'm Amitoj Singh Kohli, a data enthusiast passionate about leveraging technology to solve complex problems and drive insights from data. Here’s a bit about me:
 
 - 🔭 I’m currently working on an Automated AWS Cloud ETL Solution for Music Streaming Data, focusing on automating daily extractions, data processing, and leveraging AWS services for efficient data flow and analytics.
