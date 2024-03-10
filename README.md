@@ -4,7 +4,7 @@
 
 I'm Amitoj Singh Kohli, a data enthusiast passionate about leveraging technology to solve complex problems and drive insights from data. Here’s a bit about me:
 
-- 🔭 I’m currently working on couple of projects:
+- 🔭 I’m currently working on a couple of projects:
   1) Builing an end to end Azure Data Engineering Project, focusing on automating daily extractions, data processing, and leveraging Azure services for efficient data flow and analytics.
   2) Malaria cell classification using Neural Networks. This project aims to address the need for automated and efficient methods of malaria diagnosis by leveraging neural networks to classify images of infected and uninfected cells accurately.
 - 🌱 I’m currently learning advanced Neural Networks and Deep Learning techniques to enhance my skills in predictive analytics and machine learning model development.
