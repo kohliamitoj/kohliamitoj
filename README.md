@@ -4,7 +4,9 @@
 
 I'm Amitoj Singh Kohli, a data enthusiast passionate about leveraging technology to solve complex problems and drive insights from data. Here’s a bit about me:
 
-- 🔭 I’m currently working on an Automated AWS Cloud ETL Solution for Music Streaming Data, focusing on automating daily extractions, data processing, and leveraging AWS services for efficient data flow and analytics.
+- 🔭 I’m currently working on couple of projects:
+  1) Builing an end to end Azure Data Engineering Project, focusing on automating daily extractions, data processing, and leveraging Azure services for efficient data flow and analytics.
+  2) Malaria cell classification using Neural Networks. This project aims to address the need for automated and efficient methods of malaria diagnosis by leveraging neural networks to classify images of infected and uninfected cells accurately.
 - 🌱 I’m currently learning advanced Neural Networks and Deep Learning techniques to enhance my skills in predictive analytics and machine learning model development.
 - 👯 I’m looking to collaborate on projects involving big data analytics, cloud technologies, and data science, especially those that aim to make impactful business decisions based on data-driven insights.
 - 🤔 I’m looking for help with exploring the latest in cloud architecture best practices, especially in optimizing data processing and analytics pipelines in cloud environments.
