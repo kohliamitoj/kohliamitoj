@@ -36,4 +36,4 @@ I'm Amitoj Singh Kohli, a data enthusiast passionate about leveraging technology
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kohliamitoj&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kohliamitoj&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
