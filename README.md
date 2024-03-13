@@ -34,3 +34,6 @@ I'm Amitoj Singh Kohli, a data enthusiast passionate about leveraging technology
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=green)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kohliamitoj&icon=0&color=0)](https://visitcount.itsvg.in)
