@@ -34,6 +34,13 @@ I'm Amitoj Singh Kohli, a data enthusiast passionate about leveraging technology
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=green)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/vertex_ai-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Vector DB](https://img.shields.io/badge/vector_db-FF6B35?style=for-the-badge&logo=pinecone&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kohliamitoj&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
