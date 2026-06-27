@@ -45,7 +45,7 @@ With a Master’s degree in Data Analytics Engineering from Northeastern Univers
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| [Credit Card Delinquency Prediction](https://github.com/kohliamitoj/ML_Credit-Card-Clients-Delinquency-Prediction) | Binary classification of credit card payment default using 4 ML models built from scratch on 30,000 records | Python · NumPy · TensorFlow · SMOTE | [![Streamlit](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://mlcredit-card-clients-delinquency-prediction-flxurdcejf7hpvu3c.streamlit.app/) |
+| [Credit Card Delinquency Prediction](https://github.com/kohliamitoj/ML_Credit-Card-Clients-Delinquency-Prediction) | Binary classification of credit card payment default using 4 ML models built from scratch on 30,000 records | Python · NumPy · TensorFlow · SMOTE | [**Click here for Live Demo**](https://mlcredit-card-clients-delinquency-prediction-flxurdcejf7hpvu3c.streamlit.app/) |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kohliamitoj&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
